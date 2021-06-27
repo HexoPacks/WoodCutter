@@ -58,3 +58,8 @@ Finally, the stone cutter can be used as a wood cutter
 > ![cutter_log](img/cutter_log.png)
 
 > ![cutter_planks](img/cutter_planks.png)
+
+
+## Installation
+Visit the [minecraft wiki](https://minecraft.fandom.com/wiki/Tutorials/Installing_a_data_pack) to know how to install a data pack.
+
